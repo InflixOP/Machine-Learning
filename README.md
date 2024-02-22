@@ -182,3 +182,47 @@ Happy learning!
 
 # Section-3 Machine learning and Data Science framework
 
+# Machine Learning Course Progress
+
+This repository contains the code and exercises for the Zero to Mastery Machine Learning course on Udemy. The course is divided into several sections, each covering a different topic in machine learning. Here is a brief overview of the sections:
+
+1. **Section Overview (3 minutes)**
+   An overview of the topics covered in this section.
+2. **Introducing Our Framework (3 minutes)**
+   An introduction to the 6-step machine learning framework used in this course.
+3. **6 Step Machine Learning Framework (5 minutes)**
+   A detailed explanation of the 6-step machine learning framework.
+4. **Types of Machine Learning Problems (11 minutes)**
+   An overview of the different types of machine learning problems, including regression, classification, and clustering.
+5. **Types of Data (5 minutes)**
+   An overview of the different types of data, including numerical, categorical, and text data.
+6. **Types of Evaluation (4 minutes)**
+   An overview of the different types of evaluation metrics, including accuracy, precision, recall, and F1 score.
+7. **Features In Data (5 minutes)**
+   An explanation of features in data and how to extract them.
+8. **Modelling - Splitting Data (6 minutes)**
+   An explanation of how to split data for training and testing machine learning models.
+9. **Modelling - Picking the Model (5 minutes)**
+   An explanation of how to pick the right machine learning model for your problem.
+10. **Modelling - Tuning (3 minutes)**
+    An explanation of how to tune machine learning models for better performance.
+11. **Modelling - Comparison (10 minutes)**
+    A comparison of different machine learning models and their performance.
+
+## Exercises
+
+Each section includes exercises to help you practice the concepts covered. Make sure to complete the exercises to solidify your understanding of the material.
+
+## Resources
+
+In addition to the course videos and exercises, there are also resources available to help you learn:
+
+* [LinkedIn Group: Machine Learning, Data Science, and AI](https://www.linkedin.com/groups/12121940/)
+* [ZeroToMastery YouTube Channel](https://www.youtube.com/@ZeroToMastery)
+* [Zero to Mastery Website](https://zerotomastery.io/)
+
+## Asking Questions and Getting Help
+
+If you have any questions about the course or need help with the exercises, please post them in the course Discord or on the ZTM Machine Learning and Data Science course GitHub Discussions page.
+
+Happy learning!
