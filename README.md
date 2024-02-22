@@ -226,3 +226,20 @@ In addition to the course videos and exercises, there are also resources availab
 If you have any questions about the course or need help with the exercises, please post them in the course Discord or on the ZTM Machine Learning and Data Science course GitHub Discussions page.
 
 Happy learning!
+
+# Overfitting and Underfitting Definitions
+
+Before we get into the experimentation side of things, it's worth having a little reminder of overfitting and underfitting are.
+
+All experiments should be conducted on different portions of your data.
+
+- Training data set: Use this set for model training, 70-80% of your data is the standard.
+- Validation/development data set: Use this set for model hyperparameter tuning and experimentation evaluation, 10-15% of your data is the standard.
+- Test data set: Use this set for model testing and comparison, 10-15% of your data is the standard.
+
+These amounts can fluctuate slightly, depending on your problem and the data you have.
+
+- Poor performance on training data means the model hasn’t learned properly and is underfitting. Try a different model, improve the existing one through hyperparameter tuning or collect more data.
+- Great performance on the training data but poor performance on test data means your model doesn’t generalize well. Your model may be overfitting the training data. Try using a simpler model or making sure your the test data is of the same style your model is training on.
+- Another form of overfitting can come in the form of better performance on test data than training data. This may mean your testing data is leaking into your training data (incorrect data splits) or you've spent too much time optimizing your model for the test set data. Ensure your training and test datasets are kept separate at all times and avoid optimizing a model's performance on the test set (use the training and validation sets for model improvement).
+- Poor performance once deployed (in the real world) means there’s a difference in what you trained and tested your model on and what is actually happening. Ensure the data you're using during experimentation matches up with the data you're using in production.
