@@ -115,3 +115,45 @@ If you find any issues with the course code, please post an issue on the course 
 Happy Machine Learning!
 
 - Daniel (@mrdbourke on Discord)
+
+# Section 2
+
+# Zero to Mastery Machine Learning Course: Sections 7-12
+
+This repository contains the code and exercises for sections 7-12 of the Zero to Mastery Machine Learning course on Udemy. In this section, we cover the following topics:
+
+- What is Machine Learning? (7 minutes)
+- AI/Machine Learning/Data Science (5 minutes)
+- ZTM Resources (4 minutes)
+- Exercise: Machine Learning Playground (6 minutes)
+- How Did We Get Here? (6 minutes)
+- Exercise: YouTube Recommendation Engine (4 minutes)
+- Types of Machine Learning (resources)
+
+## Resources
+
+Here are some resources related to the topics covered in this section:
+
+- [LinkedIn Group: Machine Learning, Data Science, and AI](https://www.linkedin.com/groups/12121940/)
+- [ZeroToMastery YouTube Channel](https://www.youtube.com/@ZeroToMastery)
+- [Zero to Mastery Website](https://zerotomastery.io/)
+
+## Exercise: YouTube Recommendation Engine
+
+In this exercise, we build a simple YouTube recommendation engine using Python and the YouTube Data API. You can find the code for this exercise in the `youtube_recommendation_engine` directory.
+
+To get started, make sure you have Python and the required libraries installed. Then, follow these steps:
+
+1. Create a new project on the [Google Cloud Console](https://console.cloud.google.com/) and enable the YouTube Data API.
+2. Create a new file called `credentials.json` in the `youtube_recommendation_engine` directory with your API credentials.
+3. Run the `main.py` script to see the recommendation engine in action.
+
+If you encounter any issues or have questions, please post them in the course Discord or on the ZTM Machine Learning and Data Science course GitHub Discussions page.
+
+## Asking Questions + Getting Help
+
+If you have any questions about the code or exercises in this section, please feel free to post them in the course Discord or on the ZTM Machine Learning and Data Science course GitHub Discussions page.
+
+You can also check out the [GitHub Discussions page](https://github.com/mrdbourke/zero-to-mastery-ml/discussions) for answers to common questions and to ask your own.
+
+Happy learning!
