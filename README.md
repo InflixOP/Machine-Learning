@@ -118,7 +118,7 @@ Happy Machine Learning!
 
 # Section 2
 
-# Zero to Mastery Machine Learning Course: Sections 7-12
+# Zero to Mastery Machine Learning Course:
 
 This repository contains the code and exercises for sections 7-12 of the Zero to Mastery Machine Learning course on Udemy. In this section, we cover the following topics:
 
