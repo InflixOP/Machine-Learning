@@ -24,3 +24,30 @@ This repository will contain my progress through the Zero to Mastery Machine Lea
 Contributions are welcome! If you find any issues, have suggestions, or would like to add additional resources, feel free to submit a pull request.
 
 Happy learning! 🚀
+
+## DAY 1 
+## SECTION1 
+# INTRODUCTION
+In this section, we were introduced to the basics of the Zero to Mastery Machine Learning course and what we will learn throughout the course. We also learned about the different types of machine learning, including supervised, unsupervised, and reinforcement learning, and the differences between regression and classification problems.
+
+Additionally, we discussed the easy and difficult topics in machine learning. Easy topics include linear regression, logistic regression, and decision trees, while difficult topics include deep learning, natural language processing, and reinforcement learning.
+
+# Learning Objectives
+Understand the basics of the Zero to Mastery Machine Learning course
+Learn about the different types of machine learning
+Understand the differences between regression and classification problems
+Identify easy and difficult topics in machine learning
+
+# Conclusion
+In this section, we learned about the basics of the Zero to Mastery Machine Learning course and what we will learn throughout the course. We explored the different types of machine learning and the differences between regression and classification problems. We also identified easy and difficult topics in machine learning.
+
+In the next section, we will dive deeper into the tools and techniques used in machine learning and data science. Stay tuned!
+
+Note: This README file is a brief summary of what we learned in Day 1 Section 1 of the Zero to Mastery Machine Learning course. It is not a comprehensive guide, but rather a starting point for further exploration and learning.
+
+# Additional Resources:
+
+Zero to Mastery Machine Learning Course
+Machine Learning Types
+Regression vs Classification
+Easy and Difficult Topics in Machine Learning
