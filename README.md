@@ -26,7 +26,7 @@ Contributions are welcome! If you find any issues, have suggestions, or would li
 Happy learning! 🚀
 
 # DAY 1 
-## SECTION1 
+## SECTION 1 
 ### INTRODUCTION
 In this section, we were introduced to the basics of the Zero to Mastery Machine Learning course and what we will learn throughout the course. We also learned about the different types of machine learning, including supervised, unsupervised, and reinforcement learning, and the differences between regression and classification problems.
 
