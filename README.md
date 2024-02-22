@@ -137,6 +137,7 @@ Here are some resources related to the topics covered in this section:
 - [LinkedIn Group: Machine Learning, Data Science, and AI](https://www.linkedin.com/groups/12121940/)
 - [ZeroToMastery YouTube Channel](https://www.youtube.com/@ZeroToMastery)
 - [Zero to Mastery Website](https://zerotomastery.io/)
+- [Teachable machine](https://teachablemachine.withgoogle.com/)
 
 ## Exercise: YouTube Recommendation Engine
 
