@@ -255,3 +255,11 @@ It's got some great introductory explanations of many of the concepts involved i
 Of course, going through the Elements of AI material is completely optional. But if you need a break from coding (we'll be doing plenty of it), remember it's always there.
 
 Now you've had an introduction to machine learning, let's get your computer set up for it!
+
+# Python + Machine Learning Monthly
+
+[Python Monthly](https://www.getrevue.co/profile/python_monthly): Every month, I accumulate all of the best resources and articles, as well as free resources around the web for Python Developers. If you want to stay up to date with the industry and make sure you don't miss any important news, you can check out the monthly newsletter here. It's completely free every month!
+
+[Machine Learning Monthly](https://www.getrevue.co/profile/danielbourke): Written by Daniel, this newsletter covers the latest news and updates in the field of machine learning. You can read past issues [here](https://www.getrevue.co/profile/danielbourke/issues).
+
+[Web Developer Monthly](https://www.getrevue.co/profile/webdevmonthly): If you're interested in web development, check out this newsletter for the latest news and updates in the field. You can read past issues [here](https://www.getrevue.co/profile/webdevmonthly).
