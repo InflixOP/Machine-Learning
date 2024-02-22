@@ -243,3 +243,15 @@ These amounts can fluctuate slightly, depending on your problem and the data you
 - Great performance on the training data but poor performance on test data means your model doesn’t generalize well. Your model may be overfitting the training data. Try using a simpler model or making sure your the test data is of the same style your model is training on.
 - Another form of overfitting can come in the form of better performance on test data than training data. This may mean your testing data is leaking into your training data (incorrect data splits) or you've spent too much time optimizing your model for the test set data. Ensure your training and test datasets are kept separate at all times and avoid optimizing a model's performance on the test set (use the training and validation sets for model improvement).
 - Poor performance once deployed (in the real world) means there’s a difference in what you trained and tested your model on and what is actually happening. Ensure the data you're using during experimentation matches up with the data you're using in production.
+
+# Optional: Elements of AI
+
+Massive effort getting through the first section! There was a lot to go through and if you're thinking, "wow this is too much...", don't worry, you're not alone. Machine learning is broad and learning a new skill takes time.
+
+One place you might want to check out for some auxiliary learning whilst you go through the rest of this course is the [Elements of AI website](https://introduction-to-ai.github.io/).
+
+It's got some great introductory explanations of many of the concepts involved in machine learning, data science and artificial intelligence.
+
+Of course, going through the Elements of AI material is completely optional. But if you need a break from coding (we'll be doing plenty of it), remember it's always there.
+
+Now you've had an introduction to machine learning, let's get your computer set up for it!
