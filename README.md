@@ -26,8 +26,7 @@ Contributions are welcome! If you find any issues, have suggestions, or would li
 Happy learning! 🚀
 
 # DAY 1 
-## SECTION 1 
-### INTRODUCTION
+## SECTION 1-INTRODUCTION
 In this section, we were introduced to the basics of the Zero to Mastery Machine Learning course and what we will learn throughout the course. We also learned about the different types of machine learning, including supervised, unsupervised, and reinforcement learning, and the differences between regression and classification problems.
 
 Additionally, we discussed the easy and difficult topics in machine learning. Easy topics include linear regression, logistic regression, and decision trees, while difficult topics include deep learning, natural language processing, and reinforcement learning.
@@ -116,7 +115,7 @@ Happy Machine Learning!
 
 - Daniel (@mrdbourke on Discord)
 
-# Section 2
+# Section 2- Machine learning 101
 
 # Zero to Mastery Machine Learning Course:
 
@@ -180,3 +179,6 @@ Here's an image to help guide you:
 ![Udemy Notification Settings](https://i.imgur.com/QrJ1XjF.png)
 
 Happy learning!
+
+# Section-3 Machine learning and Data Science framework
+
