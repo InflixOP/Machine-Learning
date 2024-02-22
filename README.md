@@ -86,3 +86,32 @@ You can also follow us on twitter where we keep you updated about industry news,
 As you start the course, Udemy will have a popup that  will ask you to leave a review `⭐️⭐️⭐️⭐️⭐️` of the course. Yes, it can get a little annoying (it's a Udemy system and not something we have control over) but please leave an honest review (even if you just started the course) as it really helps us out and allows more people to discover this course in this massively competitive marketplace. It would truly mean a lot `😊`.
 
 Thank you and welcome to ZTM!
+
+# Asking Questions + Getting Help
+
+Hey there machine learner!
+
+The journey of learning machine learning can be a tough one sometimes. But not to worry, the ZTM community is here to help.
+
+## Questions and answers (Q&A)
+
+If you have a question about any of the code or videos in the course, please feel free to post them in the course Discord (<https://community.zerotomastery.io/>).
+
+Otherwise, you can search/post on the ZTM Machine Learning and Data Science course GitHub Discussions page: <https://github.com/mrdbourke/zero-to-mastery-ml/discussions>
+
+You can see an example of how to ask a question here: <https://github.com/mrdbourke/zero-to-mastery-ml/discussions/48>
+
+**Questions on GitHub Discussions are far more likely to get answered than questions on Udemy.**
+
+**Why?**
+
+* We believe it’s better to have all the code + materials + QA in one place. That way updates can be posted if needed.
+* Plus, there’s plenty of people on GitHub who are willing to help out! (if you see a question you think you can answer, feel free to help someone)
+
+## Issues with the course code
+
+If you find any issues with the course code, please post an issue on the course GitHub issues: <https://github.com/mrdbourke/zero-to-mastery-ml/issues>
+
+Happy Machine Learning!
+
+- Daniel (@mrdbourke on Discord)
