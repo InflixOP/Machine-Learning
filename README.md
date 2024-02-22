@@ -48,6 +48,7 @@ Note: This README file is a brief summary of what we learned in Day 1 Section 1 
 ### Additional Resources:
 
 [Zero to Mastery Machine Learning Course](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=KEEPLEARNING)
-[supervised-unsupervised-and-reinforcement-learning]https://towardsdatascience.com/supervised-unsupervised-and-reinforcement-learning-baa5d8906037
+
 [Regression vs Classification](https://towardsdatascience.com/regression-vs-classification-3e013f06de82)
+
 [Easy and Difficult Topics in Machine Learning](https://www.kdnuggets.com/2017/06/7-steps-mastering-machine-learning-python.html)
