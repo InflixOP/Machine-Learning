@@ -158,3 +158,25 @@ If you have any questions about the code or exercises in this section, please fe
 You can also check out the [GitHub Discussions page](https://github.com/mrdbourke/zero-to-mastery-ml/discussions) for answers to common questions and to ask your own.
 
 Happy learning!
+
+# Monthly Coding Challenges, Free Resources and Guides
+
+Every month in the community, we will have coding challenges for you to participate in, monthly industry blogs and other top free resources emailed to you. We also have annual events like Advent of Code🎄, Hacktoberfest 👾, and Frosty February Hackathon☃️, plus some giveaways 🎁 as well.
+
+Make sure you have your email settings on Udemy to allow this, as every month we will be emailing you a community update email where we list all of the new challenges, free resources, videos and giveaways.
+
+## How to Receive Community Update Emails
+
+Some students have mentioned they do not receive these emails and it's mainly because of their Udemy notification settings. To ensure you receive the community update emails, follow these steps:
+
+1. Go to your Udemy profile icon and click on "Account".
+2. Click on "Notification Settings".
+3. Make sure you have these two boxes checked:
+   - "Monthly updates about courses you're enrolled in"
+   - "Announcements about new courses, promotions and exclusive opportunities"
+
+Here's an image to help guide you:
+
+![Udemy Notification Settings](https://i.imgur.com/QrJ1XjF.png)
+
+Happy learning!
