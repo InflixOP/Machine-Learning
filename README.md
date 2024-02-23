@@ -449,3 +449,71 @@ Python has a set of built-in methods that you can use on lists/arrays:
 | union()            | Return a set containing the union of sets                                   |
 | update()           | Update the set with another set, or any other iterable                       |
 
+# Section 19 - Learn python 2
+
+Welcome to the Python course! In this course, you will learn the fundamentals of Python programming, starting from basic concepts like variables, data types, and control flow, and moving on to more advanced topics like functions, modules, and packages.
+
+Here's a brief overview of the topics covered in this course:
+
+- **Control Flow**
+  - Conditional Logic
+  - Indentation in Python
+  - Truthy vs Falsey
+  - Ternary Operator
+  - Short Circuiting
+  - Logical Operators
+  - Exercise: Logical Operators
+  - is vs ==
+  - Exercise: Find Duplicates
+
+- **Loops**
+  - For Loops
+  - Iterables
+  - Exercise: Tricky Counter
+  - While Loops
+  - While Loops 2
+  - break, continue, pass
+
+- **Data Structures**
+  - Tuples
+  - Sets
+    - Set Methods
+  - Dictionaries
+    - Dictionary Methods
+  - Exercise: Tesla
+
+- **Functions**
+  - Functions
+  - Parameters and Arguments
+  - Default Parameters and Keyword Arguments
+  - return
+  - Exercise: Functions
+  - *args and **kwargs
+  - Scope
+  - Scope Rules
+  - Global Keyword
+  - nonlocal Keyword
+  - Why Do We Need Scope?
+  - Pure Functions
+
+- **Comprehensions**
+  - List Comprehensions
+  - Set Comprehensions
+  - Exercise: Comprehensions
+
+- **Modules and Packages**
+  - Modules in Python
+  - Packages in Python
+  - Different Ways To Import
+
+- **Testing**
+  - Python Exam: Testing Your Understanding
+
+- **Best Practices**
+  - Clean Code
+  - Docstrings
+  - Pure Functions
+
+This course includes various exercises and examples to help you understand the concepts better. The course also includes a final Python exam to test your understanding of the topics covered.
+
+Happy learning!
