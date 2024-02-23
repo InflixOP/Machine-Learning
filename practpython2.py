@@ -38,5 +38,8 @@ for key,value in dict1.items():
 
 for i in range(1,101):
     print(i)
-'''
+    
+for i,char in enumerate(list(range(100))):
+    print(i+1,char)
 
+'''
