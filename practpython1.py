@@ -76,8 +76,6 @@ c=type(b)
 
 #LIST
 '''
-
-'''
 li=[1,2,3,4,5]
 l2=[2,45,47]
 l3=[1,'a',True,False]
@@ -89,3 +87,4 @@ print(l2)
 print(l2.index(12))
 l2.sort()
 print(l2)
+'''
