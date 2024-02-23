@@ -42,3 +42,9 @@ print(6%4)
 # **
 # * /
 # + -
+# auggmented assignment operator
+"""
+    some_value=5
+    some_value+=5 means some_value=some_value+2
+    
+"""
