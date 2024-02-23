@@ -417,3 +417,12 @@ Python has a set of built-in methods that you can use on lists/arrays:
 | setdefault()  | Returns the value of the specified key. If the key does not exist: insert the key, with the specified value |
 | update()     | Updates the dictionary with the specified key-value pairs                     |
 | values()     | Returns a list of all the values in the dictionary                           |
+
+# DAY 3 
+
+## Python tuple methods:
+
+| Method | Description                                                                 |
+|--------|-----------------------------------------------------------------------------|
+| count()| Returns the number of times a specified value occurs in a tuple                 |
+| index()| Searches the tuple for a specified value and returns the position of where it was found |
