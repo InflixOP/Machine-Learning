@@ -71,3 +71,5 @@ c=type(b)
 '\' is a escape sequence which tells whatever comes after this is a string
 '\t' adds tab space  
 '''
+# str1='ANUBHAV'
+# print(str1[0:6])
