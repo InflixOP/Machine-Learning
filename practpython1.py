@@ -20,3 +20,5 @@ Modules
 
 None
 """
+#int
+print(2+4)
