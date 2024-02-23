@@ -303,3 +303,9 @@ Hello, World!
 For more information and resources on learning Python, you can visit the official Python website at <https://www.python.org/>.
 
 Also refer to practpython1.py file for reference
+
+Throughout the course, we will have many exercises to help you learn. Moving forward, these exercises will be attached to each video (if it has an exercise) which can be accessed in your Udemy video player under "resources". To get you comfortable using this feature, and the online Repl.it we are going to use, you can see the exercise for this lesson attached:
+
+<https://replit.com/@aneagoie/Operator-Precedence>
+
+Good luck and see you in the next video!
