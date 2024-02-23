@@ -22,8 +22,10 @@ if is_friend and is_user:
 
 #for loop
 '''
-
-'''
 for i in 'anubhav':
     print(i)
-    
+'''
+
+for i in [1,2,3,4]:
+    for j in 'anu':
+        print(i, j)
