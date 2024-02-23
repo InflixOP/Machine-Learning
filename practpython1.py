@@ -79,7 +79,7 @@ c=type(b)
 
 '''
 li=[1,2,3,4,5]
-l2=['a','b','c']
+l2=[2,45,47]
 l3=[1,'a',True,False]
 print(l3)
 l2.append(100)
@@ -87,3 +87,5 @@ print(l2)
 l2.insert(1,12)
 print(l2)
 print(l2.index(12))
+l2.sort()
+print(l2)
