@@ -73,3 +73,17 @@ c=type(b)
 '''
 # str1='ANUBHAV'
 # print(str1[0:6])
+
+#LIST
+'''
+
+'''
+li=[1,2,3,4,5]
+l2=['a','b','c']
+l3=[1,'a',True,False]
+print(l3)
+l2.append(100)
+print(l2)
+l2.insert(1,12)
+print(l2)
+print(l2.index(12))
