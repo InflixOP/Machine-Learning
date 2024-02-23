@@ -301,3 +301,5 @@ Hello, World!
 ```To run this code, you can save it in a file with a `.py` extension and then execute the file using a Python interpreter.
 
 For more information and resources on learning Python, you can visit the official Python website at <https://www.python.org/>.
+
+Also refer to practpython1.py file for reference
