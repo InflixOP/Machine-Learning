@@ -276,3 +276,28 @@ If you have any questions, reach out in our private Discord chat community in th
 2. Scroll down to the `Education` section
 3. Click the `+`
 4. Type in `Zero To Mastery Academy`
+
+# Day 2
+# Section 18- Learn Python
+
+# Introduction to Python
+
+Python is a high-level, interpreted programming language known for its readability and simplicity. It was created by Guido van Rossum and first released in 1991. Python's syntax is designed to be easy to read and write, with a focus on simplicity and readability.
+
+Some key features of Python include:
+
+- **Easy-to-read syntax**: Python uses indentation to define code blocks, making the code easier to read and understand.
+- **Extensive standard library**: Python comes with a large standard library, which includes modules for handling various tasks like file I/O, regular expressions, and web services.
+- **Cross-platform compatibility**: Python is available on multiple platforms, including Windows, macOS, and Linux.
+- **Strong community support**: Python has a large and active community, which contributes to its extensive ecosystem of libraries and frameworks.
+
+Here's a simple example of Python code:
+
+```python
+print("Hello, World!")
+
+Hello, World!
+
+```To run this code, you can save it in a file with a `.py` extension and then execute the file using a Python interpreter.
+
+For more information and resources on learning Python, you can visit the official Python website at <https://www.python.org/>.
