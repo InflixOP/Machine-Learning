@@ -21,9 +21,24 @@ Modules
 None
 """
 #int
+"""
 print(type(2+4))
 print(2-4)
 print(2*4)
 print(2/4)
 print(2**2)
 print(7//4)
+print(6%4)
+"""
+#Math Functions
+
+# round
+# abs
+# pow
+
+#operator precedence
+
+# ()
+# **
+# * /
+# + -
