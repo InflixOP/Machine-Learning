@@ -48,3 +48,7 @@ print(6%4)
     some_value+=5 means some_value=some_value+2
     
 """
+#string
+"""_summary_
+    "hi hello there"
+"""
