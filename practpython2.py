@@ -24,8 +24,15 @@ if is_friend and is_user:
 '''
 for i in 'anubhav':
     print(i)
-'''
 
 for i in [1,2,3,4]:
     for j in 'anu':
         print(i, j)
+dict1={
+    'name': 'Anubhav',
+    'age':20,
+    'prof': 'agaga'
+}
+for key,value in dict1.items():
+    print(key,value)
+'''
