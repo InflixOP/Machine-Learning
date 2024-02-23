@@ -87,6 +87,9 @@ print(l2)
 print(l2.index(12))
 l2.sort()
 print(l2)
+
+list is a keyword which is used to convert a set to list
+
 '''
 
 #DICTIONARY
@@ -97,3 +100,18 @@ print(dict1[1])
 print(dict1.get(4,20))
 
 '''
+
+#Tuple
+
+'''
+mytuple=(1,2,3,4,5)
+print(1 in mytuple)
+'''
+
+#Sets
+
+'''
+set is a keyword which is used to convert a list to set
+'''
+my_set={1,2,3,4,5,5}
+print(len(my_set))
