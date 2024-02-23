@@ -51,4 +51,10 @@ print(6%4)
 #string
 """_summary_
     "hi hello there"
+    username='supercoder'
+    long_string='''
+    wow
+    0 0
+    ---
+    '''
 """
