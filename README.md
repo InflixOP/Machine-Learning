@@ -293,10 +293,9 @@ Some key features of Python include:
 
 Here's a simple example of Python code:
 
-```python
 print("Hello, World!")
 
-Hello, World!
+Hello, World! 
 
 ```To run this code, you can save it in a file with a `.py` extension and then execute the file using a Python interpreter.
 
