@@ -19,3 +19,11 @@ is_user=True
 if is_friend and is_user:
     print("Best friends forever")
 '''
+
+#for loop
+'''
+
+'''
+for i in 'anubhav':
+    print(i)
+    
