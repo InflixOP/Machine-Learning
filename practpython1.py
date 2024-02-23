@@ -57,4 +57,12 @@ print(6%4)
     0 0
     ---
     '''
+    
 """
+
+#Type conversion
+'''
+a=str(100)
+b=int(a)
+c=type(b)
+'''
