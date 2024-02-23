@@ -35,4 +35,8 @@ dict1={
 }
 for key,value in dict1.items():
     print(key,value)
+
+for i in range(1,101):
+    print(i)
 '''
+
