@@ -88,3 +88,12 @@ print(l2.index(12))
 l2.sort()
 print(l2)
 '''
+
+#DICTIONARY
+
+'''
+dict1={1:'a',2:'b',3:'c'}
+print(dict1[1])
+print(dict1.get(4,20))
+
+'''
