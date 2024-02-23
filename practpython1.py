@@ -2,4 +2,13 @@
 """
 name=input('What is your name')
 print(name)
+Data types-
+int
+float
+bool
+str
+list
+tuple
+set
+dict
 """
