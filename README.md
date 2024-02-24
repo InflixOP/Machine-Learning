@@ -517,3 +517,45 @@ Here's a brief overview of the topics covered in this course:
 This course includes various exercises and examples to help you understand the concepts better. The course also includes a final Python exam to test your understanding of the topics covered.
 
 Happy learning!
+
+# Tesla Self-Driving Car Exercise
+
+Welcome to the Tesla Self-Driving Car Exercise repository! In this exercise, you will find a problem provided by Tesla that needs to be solved. You've just been employed by Tesla, and your task is to tackle this problem related to their self-driving car technology.
+
+## Problem Statement
+
+You can find the problem statement and the codebase to solve it in the following link: [Tesla Self-Driving Car Problem](https://repl.it/@aneagoie/tesla)
+
+## Solution
+
+The solution to the problem can be found within this repository. Make sure to explore the code and understand the approach used to solve the problem.
+
+## Getting Started
+
+To get started with this exercise, follow these steps:
+
+1. Clone this repository to your local machine using `git clone`.
+2. Navigate to the cloned directory.
+3. Open the provided link to the problem statement to understand the requirements.
+4. Explore the code provided to solve the problem.
+5. Implement any necessary changes or enhancements based on the problem requirements.
+
+## Usage
+
+Once you've implemented your solution, you can run the code to see the results. Make sure to test it thoroughly to ensure it meets the expected behavior outlined in the problem statement.
+
+## Contributing
+
+If you have any suggestions, improvements, or bug fixes, feel free to contribute to this repository. You can fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
+
+## License
+
+This exercise is provided under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for educational or personal purposes.
+
+## Acknowledgments
+
+Special thanks to Tesla for providing this exercise and allowing us to work on real-world problems in the field of self-driving cars.
+
+---
+
+Happy coding! If you have any questions or concerns, feel free to reach out. Let's make self-driving cars safer and more efficient together! 🚗💨
