@@ -64,3 +64,7 @@ def super(*args,**kwargs):
 
 print(super(1,3,5,6,a=2,b=5))
 '''
+start with local scope
+next check parent local scope
+check global scope
+check built in function
