@@ -54,4 +54,13 @@ def say(name,emoji):
     print(f'hello {name} {emoji}')
 say('Anubhav',':)'
 
+
+def super(*args,**kwargs):
+    total=0
+    for i in kwargs.values():
+        total+=i
+    print(args)
+    return sum(args),total
+
+print(super(1,3,5,6,a=2,b=5))
 '''
