@@ -43,3 +43,14 @@ for i,char in enumerate(list(range(100))):
     print(i+1,char)
 
 '''
+#functions
+
+'''
+def say_hello():
+    print('hello')
+say_hello() 
+
+'''
+def say(name,emoji):
+    print(f'hello {name} {emoji}')
+say('Anubhav',':)')
