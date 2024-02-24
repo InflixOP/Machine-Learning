@@ -64,7 +64,28 @@ def super(*args,**kwargs):
 
 print(super(1,3,5,6,a=2,b=5))
 '''
-start with local scope
-next check parent local scope
-check global scope
-check built in function
+# start with local scope
+# next check parent local scope
+# check global scope
+# check built in function
+
+'''
+def mul2(item):
+    return item*2
+print(list(map(mul2,[1,4,53,3])))
+'''
+#list comprehension
+
+# mylist=[char for char in 'anubhav']
+# print(mylist)
+
+#Set and dictionary comprehension
+
+# mylist={char for char in 'anubhav'}
+# print(mylist)
+# simple_dict={
+#     'a':1,
+#     'b':2
+# }
+# mydict={key:value**2 for key,value in simple_dict.items()}
+# print(mydict)
