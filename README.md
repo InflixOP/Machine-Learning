@@ -608,3 +608,70 @@ The course materials are licensed under the MIT License.
 ## Contact
 
 If you have any questions or feedback, please contact us at [support@example.com](mailto:support@example.com).
+
+# SECTION 5- DATA SCIENCE ENVIRONMENT
+
+# Setting Up Your Environment and Using Jupyter Notebook
+
+This section covers how to set up your environment for Python programming and how to use Jupyter Notebook for data science and machine learning projects.
+
+## Overview
+
+In this section, you will learn:
+
+- How to install and use Conda, a package and environment management system for Python
+- How to set up your environment for Mac, Windows, or Linux
+- How to share your Conda environment with others
+- How to use Jupyter Notebook for data science and machine learning projects
+
+## Introducing Our Tools
+
+In this video, we introduce the tools you will be using in this section, including Conda and Jupyter Notebook.
+
+## What is Conda?
+
+Conda is a package and environment management system for Python. It allows you to create separate environments for your Python projects, which helps to prevent conflicts between packages and dependencies.
+
+## Conda Environments
+
+In this video, we show you how to create and manage Conda environments. We also cover how to install packages using Conda.
+
+## Mac Environment Setup
+
+In this video, we show you how to set up your environment for Mac using Conda. We cover how to install Conda, create a new environment, and install packages.
+
+## Mac Environment Setup 2
+
+In this video, we continue with the Mac environment setup. We cover how to activate and deactivate environments, and how to use pip to install packages.
+
+## Windows Environment Setup
+
+In this video, we show you how to set up your environment for Windows using Conda. We cover how to install Conda, create a new environment, and install packages.
+
+## Windows Environment Setup 2
+
+In this video, we continue with the Windows environment setup. We cover how to activate and deactivate environments, and how to use pip to install packages.
+
+## Linux Environment Setup
+
+In this video, we show you how to set up your environment for Linux using Conda. We cover how to install Conda, create a new environment, and install packages.
+
+## Sharing your Conda Environment
+
+In this video, we show you how to share your Conda environment with others. We cover how to export and import environments, and how to create an environment.yml file.
+
+## Jupyter Notebook Walkthrough
+
+In this video, we give you a tour of Jupyter Notebook. We cover how to create and open notebooks, how to run cells, and how to use Markdown.
+
+## Jupyter Notebook Walkthrough 2
+
+In this video, we continue with the Jupyter Notebook walkthrough. We cover how to use Magic commands, how to import modules, and how to use widgets.
+
+## Jupyter Notebook Walkthrough 3
+
+In this video, we continue with the Jupyter Notebook walkthrough. We cover how to use version control, how to use the terminal, and how to share notebooks.
+
+## Conclusion
+
+In this section, you learned how to set up your environment for Python programming and how to use Jupyter Notebook for data science and machine learning projects.
