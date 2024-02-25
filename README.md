@@ -559,3 +559,52 @@ Special thanks to Tesla for providing this exercise and allowing us to work on r
 ---
 
 Happy coding! If you have any questions or concerns, feel free to reach out. Let's make self-driving cars safer and more efficient together! 🚗💨
+
+# DAY 4
+
+# Python Course
+
+This is a course on Python programming. It covers the basics of Python and how to use it for data science and machine learning.
+
+## Prerequisites
+
+Before you begin, ensure you have the following:
+
+- A computer with internet access
+- The latest version of Python installed
+- A text editor or IDE for writing Python code
+
+## Getting Started
+
+To get started with the course, follow these steps:
+
+1. Download the course materials from the course website.
+2. Install Python on your computer if you haven't already.
+3. Open the course materials in your text editor or IDE.
+4. Follow the instructions in the course materials to complete the exercises.
+
+## Using the Course Materials
+
+The course materials include the following:
+
+- Video lectures
+- Code examples
+- Exercises
+
+To use the course materials, follow these steps:
+
+1. Watch the video lectures to learn the concepts covered in the course.
+2. Review the code examples to see how the concepts are implemented in Python.
+3. Complete the exercises to practice your skills and reinforce your learning.
+
+## Contributing
+
+If you would like to contribute to the course materials, please submit a pull request.
+
+## License
+
+The course materials are licensed under the MIT License.
+
+## Contact
+
+If you have any questions or feedback, please contact us at [support@example.com](mailto:support@example.com).
