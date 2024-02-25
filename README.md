@@ -447,7 +447,9 @@ Python has a set of built-in methods that you can use on lists/arrays:
 | symmetric_difference() | Returns a set with the symmetric differences of two sets                     |
 | symmetric_difference_update() | inserts the symmetric differences from this set and another                    |
 | union()            | Return a set containing the union of sets                                   |
-| update()           | Update the set with another set, or any other iterable                       |
+| update()           | Update the set with another set, or any other iterable   
+
+### Refer to practpython1.py file for more!                    |
 
 # Section 19 - Learn python 2
 
@@ -609,6 +611,8 @@ The course materials are licensed under the MIT License.
 
 If you have any questions or feedback, please contact us at [support@example.com](mailto:support@example.com).
 
+### Refer to practpython2.py file for more!  
+
 # SECTION 5- DATA SCIENCE ENVIRONMENT
 
 # Setting Up Your Environment and Using Jupyter Notebook
@@ -675,3 +679,21 @@ In this video, we continue with the Jupyter Notebook walkthrough. We cover how t
 ## Conclusion
 
 In this section, you learned how to set up your environment for Python programming and how to use Jupyter Notebook for data science and machine learning projects.
+
+# Sharing Your Conda Environment
+There may come a time where you want to share the contents of your Cond environment with others. could be to share a project work with a colleague or with someone else whos trying to set up their system to have to the same tools as yours.
+
+There are two ways to your Conda environment
+
+1. Share your entire project folder (including the environment folder containing all of your Conda packages).
+2. Share a .yml (pronounced YAM-L) file of your Conda environment.
+
+## Sharing the Entire Project Folder
+
+The benefit of sharing the entire project folder is that it's a very simple setup. Simply share the folder, activate the environment, and run the code. However, an environment folder can be quite a large file to share.
+
+## Sharing a .yml File
+
+A .yml file is a text file with instructions to tell Conda how to set up an environment. To export your Conda environment as a .yml file, use the following command:
+
+### Refer to Example.ipnyb file for more!
