@@ -697,3 +697,41 @@ The benefit of sharing the entire project folder is that it's a very simple setu
 A .yml file is a text file with instructions to tell Conda how to set up an environment. To export your Conda environment as a .yml file, use the following command:
 
 ### Refer to Example.ipnyb file for more!
+
+# DAY 5
+## SECTION 6- INTRODUCTION TO PANDAS
+# Using Pandas for Data Manipulation
+
+This section covers how to use the Pandas library in Python for data manipulation.
+
+## Overview
+
+In this section, you will learn:
+
+- How to download and use the Pandas library
+- How to work with Series, DataFrames, and CSV files
+- How to describe and manipulate data using Pandas
+- How to download data from URLs
+- How to complete the Pandas Practice assignment
+
+## Downloading Workbooks and Assignments
+
+To download the workbooks and assignments for this section, follow the instructions in the previous section on downloading course materials.
+
+## Pandas Introduction
+
+In this video, we introduce the Pandas library and show you how to download and install it.
+
+## Series, DataFrames, and CSVs
+
+In this video, we show you how to work with Series, DataFrames, and CSV files using Pandas.
+
+## Data from URLs
+
+In this video, we show you how to download data from URLs using Pandas.
+
+## Describing Data with Pandas
+
+In this video, we show you how to describe data using Pandas.
+
+## Selecting and Viewing Data with Pandas
