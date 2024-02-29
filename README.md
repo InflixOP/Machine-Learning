@@ -734,4 +734,15 @@ In this video, we show you how to download data from URLs using Pandas.
 
 In this video, we show you how to describe data using Pandas.
 
-## Selecting and Viewing Data with Pandas
+# Importing CSV Files from URLs using Pandas
+
+Pandas provides a convenient way to import CSV files directly from a URL. This is useful if you don't have the data downloaded to your computer or in the same directory as your notebook.
+
+To import a CSV file from a URL, you can use the `read_csv()` function and pass the URL as the first argument. For example, to import the `heart-disease.csv` file from the course GitHub repo, you can use the following code:
+```python
+import pandas as pd
+
+heart_disease = pd.read_csv("https://raw.githubusercontent.com/mrdbourke/zero-to-mastery-ml/master/data/heart-disease.csv")
+Note that if you're using a link from GitHub, make sure it's in the "raw" format. You can do this by clicking the "Raw" button on the GitHub page for the file.
+
+Importing data from URLs can be a powerful tool for data analysis, as it allows you to access data from various sources without having to download and manage the files yourself. However, be aware that importing data from URLs can be slower than importing from local files, and may also consume more bandwidth.
