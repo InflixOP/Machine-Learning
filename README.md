@@ -743,6 +743,11 @@ To import a CSV file from a URL, you can use the `read_csv()` function and pass 
 import pandas as pd
 
 heart_disease = pd.read_csv("https://raw.githubusercontent.com/mrdbourke/zero-to-mastery-ml/master/data/heart-disease.csv")
+```
 Note that if you're using a link from GitHub, make sure it's in the "raw" format. You can do this by clicking the "Raw" button on the GitHub page for the file.
 
 Importing data from URLs can be a powerful tool for data analysis, as it allows you to access data from various sources without having to download and manage the files yourself. However, be aware that importing data from URLs can be slower than importing from local files, and may also consume more bandwidth.
+
+# DAY-6 
+
+## SECTION 7 - INTRODUCTION TO NUMPY ARRAYS
