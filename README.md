@@ -750,4 +750,4 @@ Importing data from URLs can be a powerful tool for data analysis, as it allows 
 
 # DAY-6 
 
-## SECTION 7 - INTRODUCTION TO NUMPY ARRAYS
+## SECTION 7 - INTRODUCTION TO NUMPY ARRAY
